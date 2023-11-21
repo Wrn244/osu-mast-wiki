@@ -1,0 +1,1 @@
+# osu-mast-wiki
